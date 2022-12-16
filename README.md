@@ -2,7 +2,7 @@
 Repositório com todos os exercícios das listas de lógica de programação em JavaScript, criada pela DP6.
 
 #
-#
+
 ## Lista de exercicios #1:
 
 1 - Criar um algoritmo que imprima a mensagem "É preciso fazer todos os algoritmos para aprender".
@@ -47,7 +47,7 @@ diagonal: ____ "
 para o garçom. Fazer um algoritmo que leia o valor gasto com despesas realizadas em um restaurante e imprima o valor total com a gorjeta.
 
 #
-#
+
 ## Lista de exercicios #2:
 
 1 - Entrar com um número e imprimi-lo caso seja maior que 20.
@@ -108,7 +108,7 @@ do sexo masculino e tiver mais de 27 anos.
 26 - A série de RICCI difere da série de FIBONACCI porque os dois primeiros termos são fornecidos pelo usuário. Os demais termos são gerados da mesma forma que a série de FIBONACCI. Criar um algoritmo que imprima os n primeiros termos dasérie de RICC e a soma dos termos impressos, sabendo-se que para existir esta série serão necessários pelo menos três termos.
 
 #
-#
+
 ## Lista de exercicios #3:
 
 1 - Crie um algoritmo que receba um objeto Pessoa com os atributos:
